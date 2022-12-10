@@ -1,0 +1,4 @@
+.footer__link_container {
+    display: grid;
+    gap: 32px;
+}
