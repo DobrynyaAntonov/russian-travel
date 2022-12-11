@@ -22,3 +22,12 @@
       margin-top: 90px;
     }
   }
+
+
+  @media (min-width: 1280px) {
+    .cover {
+      max-height: 740px;
+      margin: 90px 48px 0;
+      aspect-ratio: 0;
+    }
+  }

@@ -13,3 +13,9 @@
         min-width: 440px;
     }
   }
+
+  @media (min-width: 1280px) {
+    .place__image {
+        min-width: 460px;
+    }
+  }

@@ -13,3 +13,9 @@
         margin: 88px 48px 0;
     }
   }
+
+  @media (min-width: 1280px) {
+    .intro {
+        margin: 88px 148px 0;
+    }
+  }

@@ -9,3 +9,11 @@
         max-width: 100%;
     }
   }
+
+
+  @media (min-width: 1280px) {
+    .lead{
+        margin: 56px 148px 0;
+        max-width: 100%;
+    }
+  }
