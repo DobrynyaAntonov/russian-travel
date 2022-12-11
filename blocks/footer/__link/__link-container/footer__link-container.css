@@ -1,11 +1,11 @@
-.footer__link_container {
+.footer__link-container {
     display: grid;
     gap: 32px;
 }
 
 
 @media (min-width: 768px) {
-    .footer__link_container {
+    .footer__link-container {
         display: flex;
         justify-content: flex-start;
         gap: 0;
