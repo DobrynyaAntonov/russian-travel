@@ -8,6 +8,7 @@
     color: #FFFFFF;
     margin: 0 16px 0 9px;
     padding-top: 33px;
+    max-width: 288px;
 }
 
 @media (min-width: 768px) {
@@ -16,6 +17,7 @@
         line-height: 76px;
         padding-top: 115px;
         margin-left: 16px;
+        max-width: 560px;
     }
   }
 
