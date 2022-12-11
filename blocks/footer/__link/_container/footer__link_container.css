@@ -2,3 +2,13 @@
     display: grid;
     gap: 32px;
 }
+
+
+@media (min-width: 768px) {
+    .footer__link_container {
+        display: flex;
+        justify-content: flex-start;
+        gap: 0;
+    }
+    
+  }

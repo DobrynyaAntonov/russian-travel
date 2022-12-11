@@ -7,5 +7,11 @@
     letter-spacing: 1.5px;
     text-transform: uppercase;
     color: #FFFFFF;
-    margin: 8px auto 0 16px;
+    margin: 2px auto 0 16px;
+}
+
+@media (min-width: 768px) {
+    .lead__carption {
+        margin: 2px auto 0 26px;
+    }
 }

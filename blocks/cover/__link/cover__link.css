@@ -9,3 +9,11 @@
     background-color: rgba(42, 44, 47, 0.8);
     transition: 0.4s;
 }
+
+@media (min-width: 768px) {
+    .cover__link {
+      max-height: 480px;
+      grid-template-rows: 1fr 1fr;
+      gap: 32px;
+    }
+  }

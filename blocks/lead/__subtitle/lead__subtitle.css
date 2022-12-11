@@ -8,3 +8,11 @@
     color: #FFFFFF;
     margin: 16px auto 0;
 }
+
+@media (min-width: 768px) {
+    .lead__subtitle {
+        font-size: 30px;
+        line-height: 36px;
+        margin: 32px auto 0;
+    }
+}

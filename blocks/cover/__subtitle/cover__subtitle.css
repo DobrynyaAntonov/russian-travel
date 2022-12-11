@@ -7,4 +7,14 @@
     text-align: center;
     color: #FFFFFF;
     margin: 16px 16px 33px;
+    max-width: 288px;
 }
+
+@media (min-width: 768px) {
+    .cover__subtitle {
+        font-size: 18px;
+        line-height: 22px; 
+        margin: 0 auto;
+        max-width: 360px;
+    }
+  }
