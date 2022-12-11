@@ -6,4 +6,13 @@
     .place__website {
         margin: 44px 0 0;
     }
-  }
+}
+
+@media (min-width: 1024px) {
+    .place__website {
+        display: flex;
+        flex-direction: column;
+        justify-content: end;
+        margin: 0;
+    }
+}

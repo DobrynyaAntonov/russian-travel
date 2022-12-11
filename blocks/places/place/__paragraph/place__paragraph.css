@@ -6,4 +6,14 @@
     line-height: 26px;
     color: #FFFFFF;
     margin: 0;
-}
+}   
+
+
+@media (min-width: 1024px) {
+    .place__paragraph {
+        font-size: 18px;
+        line-height: 29px;
+    }   
+   }
+
+

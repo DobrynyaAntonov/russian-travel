@@ -1,4 +1,11 @@
 .lead{
-    margin: 48px -2px 0 -2px;
-
+    margin: 48px 0 0;
+    max-width: 100%;
 }
+
+@media (min-width: 1024px) {
+    .lead{
+        margin: 48px 48px 0;
+        max-width: 100%;
+    }
+  }
