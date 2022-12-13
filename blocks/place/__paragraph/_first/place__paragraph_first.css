@@ -1,9 +1,0 @@
-.place__paragraph_first {
-    margin: 27px 16px 0;
-}
-
-@media (min-width: 768px) {
-    .place__paragraph_first {
-        margin: 0;
-    }
-  }
